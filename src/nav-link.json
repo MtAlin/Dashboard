@@ -1,0 +1,13 @@
+{
+    "dashboard":"Dashboard",
+    "posts":"Posts",
+    "categories":"Categories",
+    "users":"Users",
+    "primary":"bg-primary",
+    "success":"bg-success",
+    "warning":"bg-warning",
+    "gear":"fa-solid fa-gear",
+    "edit":"fa-solid fa-pencil",
+    "user":"fa-solid fa-users-gear",
+    "folder":"fa-solid fa-folder-open"
+}
